@@ -1,0 +1,30 @@
+[
+  {
+    "trend_name": null,
+    "status_id": "11192837482931",
+    "username": "example_user",
+    "content": "Exploring new decentralized social apps!",
+    "created_at": "2025-01-03T14:22:11Z",
+    "media": [],
+    "tag": "tech",
+    "search_query": "technology",
+    "url": "https://mastodon.social/@example_user/11192837482931",
+    "replies_count": 3,
+    "reblogs_count": 12,
+    "favourites_count": 40
+  },
+  {
+    "trend_name": null,
+    "status_id": "11192837482940",
+    "username": "another_user",
+    "content": "Open-source tools are powering the future of the #tech world.",
+    "created_at": "2025-01-03T14:30:02Z",
+    "media": [],
+    "tag": "tech",
+    "search_query": "technology",
+    "url": "https://mastodon.social/@another_user/11192837482940",
+    "replies_count": 0,
+    "reblogs_count": 7,
+    "favourites_count": 19
+  }
+]
