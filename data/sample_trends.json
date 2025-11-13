@@ -1,0 +1,30 @@
+[
+  {
+    "trend_name": "technology",
+    "status_id": "technology",
+    "username": null,
+    "content": null,
+    "created_at": null,
+    "media": [],
+    "tag": "technology",
+    "search_query": null,
+    "url": "https://mastodon.social/tags/technology",
+    "replies_count": null,
+    "reblogs_count": 15234,
+    "favourites_count": null
+  },
+  {
+    "trend_name": "fediverse",
+    "status_id": "fediverse",
+    "username": null,
+    "content": null,
+    "created_at": null,
+    "media": [],
+    "tag": "fediverse",
+    "search_query": null,
+    "url": "https://mastodon.social/tags/fediverse",
+    "replies_count": null,
+    "reblogs_count": 8912,
+    "favourites_count": null
+  }
+]
