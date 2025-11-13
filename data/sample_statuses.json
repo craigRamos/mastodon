@@ -1,0 +1,32 @@
+[
+  {
+    "trend_name": null,
+    "status_id": "11192837482931",
+    "username": "example_user",
+    "content": "Exploring new decentralized social apps!",
+    "created_at": "2025-01-03T14:22:11Z",
+    "media": [],
+    "tag": null,
+    "search_query": null,
+    "url": "https://mastodon.social/@example_user/11192837482931",
+    "replies_count": 3,
+    "reblogs_count": 12,
+    "favourites_count": 40
+  },
+  {
+    "trend_name": null,
+    "status_id": "11192837482932",
+    "username": "example_user",
+    "content": "Mastodon timelines make trend analysis so much easier.",
+    "created_at": "2025-01-03T14:25:42Z",
+    "media": [
+      "https://files.mastodon.social/media_attachments/files/000/000/001/original/example.png"
+    ],
+    "tag": null,
+    "search_query": null,
+    "url": "https://mastodon.social/@example_user/11192837482932",
+    "replies_count": 1,
+    "reblogs_count": 5,
+    "favourites_count": 22
+  }
+]
